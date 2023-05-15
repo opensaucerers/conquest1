@@ -1,2 +1,2 @@
-# opensauceryv1
-the submission repository for the first version of the opensaucery hackathon program.
+# opensaucery
+...be fruitful, and multiply, and replenish the earth, and subdue it...1:28
